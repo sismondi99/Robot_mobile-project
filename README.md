@@ -1,6 +1,9 @@
 # Robot_mobile-project
 
-The aim is to build a robot which can move inside a room and pickup objects and put them in a defined deposit area.
+The aim is to create a small game in which a simulated mobile robotic platform (two wheels) provided with
+of a 6-axis manipulator arm terminated by a gripper is used to navigate and then grasp a set
+of 10 objects scattered in the environment, then bring them back one by one to a place where they
+will need to be stored.
 
 We use "arrow key of the keyboard" to move the robot
 
