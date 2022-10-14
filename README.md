@@ -11,6 +11,6 @@ There is differents states : one to move the robot and another to move robot arm
 
 We use "arrow key of the keyboard" to move the robot and robot arm.
 
-We can change the camera view with the keyboard button "Alt".
+We can change the camera view with the keyboard button "left Alt".
 
-to pickup objects use keyboard button "shift".
+to pickup objects use keyboard button "left shift".
