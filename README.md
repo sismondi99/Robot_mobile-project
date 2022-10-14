@@ -5,10 +5,12 @@ of a 6-axis manipulator arm terminated by a gripper is used to navigate and then
 of 10 objects scattered in the environment, then bring them back one by one to a place where they
 will need to be stored.
 
-There is differents states : one to move the robot and another to move robot arm and pickup object 
+Project done with Unity and C#.
 
-We use "arrow key of the keyboard" to move the robot and robot arm
+There is differents states : one to move the robot and another to move robot arm and pickup object. 
 
-We can change the camera view with the keyboard button "Alt"
+We use "arrow key of the keyboard" to move the robot and robot arm.
 
-to pickup objects use keyboard button "shift"
+We can change the camera view with the keyboard button "Alt".
+
+to pickup objects use keyboard button "shift".
