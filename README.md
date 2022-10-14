@@ -1,6 +1,6 @@
 # Robot_mobile-project
 
-The aim is to create a small game in which a simulated mobile robotic platform (two wheels) provided with
+The aim was to create a small game in which a simulated mobile robotic platform (two wheels) provided with
 of a 6-axis manipulator arm terminated by a gripper is used to navigate and then grasp a set
 of 10 objects scattered in the environment, then bring them back one by one to a place where they
 will need to be stored.
