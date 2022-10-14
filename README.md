@@ -5,9 +5,9 @@ of a 6-axis manipulator arm terminated by a gripper is used to navigate and then
 of 10 objects scattered in the environment, then bring them back one by one to a place where they
 will need to be stored.
 
-We use "arrow key of the keyboard" to move the robot
+There is differents states : one to move the robot and another to move robot arm and pickup object 
 
-And there is differents states : one to move the robot and another to pickup object
+We use "arrow key of the keyboard" to move the robot and robot arm
 
 We can change the camera view with the keyboard button "Alt"
 
